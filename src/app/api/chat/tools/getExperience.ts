@@ -1,7 +1,7 @@
-import { experimental_createMCPClient, tool } from 'ai';
+import { tool } from 'ai';
 import { z } from 'zod';
 
-export const getPresentation = tool({
+export const getExperience = tool({
   description:
     'This tool returns a concise experience of Dharanessh M D. It is used to answer the question "What is your experience? Where are you working right now?"',
   parameters: z.object({}),
