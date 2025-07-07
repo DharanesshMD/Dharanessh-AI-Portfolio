@@ -286,11 +286,11 @@ const Chat = () => {
         />
         <div className="pt-2">
           <GitHubButton
-            href="https://github.com"
+            href="https://github.com/DharanesshMD/Dharanessh-AI-Portfolio"
             data-color-scheme="no-preference: light; light: light; dark: light_high_contrast;"
             data-size="large"
             data-show-count="true"
-            aria-label="Star Dharanesshportfolio on GitHub"
+            aria-label="Star Dharanessh portfolio on GitHub"
           >
             Star
           </GitHubButton>

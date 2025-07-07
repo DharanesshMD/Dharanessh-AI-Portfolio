@@ -13,7 +13,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Dharun Portfolio",
+  title: "Dharanessh AI Portfolio",
   description: "Interactive portfolio with an AI-powered Memoji that answers questions about me, my skills, and my experience",
   keywords: [
     "Dharun", 
@@ -30,14 +30,14 @@ export const metadata: Metadata = {
   authors: [
     {
       name: "Dharunessh M D",
-      url: "https://dharun.md",
+      url: "https://dharanessh-ai-portfolio.vercel.app/",
     },
   ],
   creator: "Dharunessh M D",
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://dharun.md",
+    url: "https://dharanessh-ai-portfolio.vercel.app/",
     title: "Dharun Portfolio",
     description: "Interactive portfolio with an AI-powered Memoji that answers questions about me",
     siteName: "Dharun Portfolio",
