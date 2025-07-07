@@ -4,7 +4,7 @@
 # Dharanessh's Interactive AI Portfolio 🤖✨
 
 <p align="center">
-  <a href="https://dharun-ai-portfolio.vercel.app/"><strong>Try the Live Demo</strong></a>
+  <a href="https://dharanessh-ai-portfolio.vercel.app/"><strong>Try the Live Demo</strong></a>
 </p>
 
 **Static portfolios are a thing of the past.** Instead of a page you just scroll, this is a conversation you can have.
