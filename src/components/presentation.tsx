@@ -12,10 +12,10 @@ export function Presentation() {
     location: 'Bangalore, India',
     // Add a newline character after the emoji
     description:
-      "I'm Dharanessh, also known as Dharun. I'm a full-stack developer specializing in AI. I’ve worked at Fidelity Investments and now build AI SaaS tools. I'm passionate about AI, tech, entrepreneurship, and clean, scalable software.",
+      "I'm Dharanessh, also known as Dharun. I'm a full-stack developer specializing in AI. I’ve worked at Fidelity Investments and now building AI SaaS tools. I'm passionate about AI, tech, entrepreneurship, and clean, scalable software.",
     src: '/dharun.png',
     fallbackSrc:
-      'https://images.unsplash.com/photo-1610216705422-caa3fcb6d158?q=80&w=3560&auto=format&fit=crop&ixlib=rb-4.0.3',
+      'https://images.unsplash.com/photo-1499209974431-9dddcece7f88?q=80&w=2500&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
   };
 
   // Animation variants for text elements
