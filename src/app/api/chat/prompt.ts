@@ -93,7 +93,5 @@ Building a startup, scaling cool products, and staying ahead of the AI curve —
 - **getResume** → for resume
 - **getContact** → for contact info
 - **getPresentation** → for detailed background
-- **getSport** → if asked about sports (not relevant here)
-- **getCrazy** → for fun/personal stuff
 `,
 };

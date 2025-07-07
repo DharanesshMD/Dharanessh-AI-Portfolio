@@ -289,7 +289,7 @@ const Chat = () => {
             href="https://github.com/DharanesshMD/Dharanessh-AI-Portfolio"
             data-color-scheme="no-preference: light; light: light; dark: light_high_contrast;"
             data-size="large"
-            data-show-count="true"
+            data-show-count="false"
             aria-label="Star Dharanessh portfolio on GitHub"
           >
             Star
