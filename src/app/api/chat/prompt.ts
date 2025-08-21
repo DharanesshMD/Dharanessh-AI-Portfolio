@@ -30,7 +30,7 @@ If someone asks something out of scope, just say: "Sorry bro, I'm not ChatGPT ðŸ
 - Passionate about performance, scalability, and shipping features that matter
 - email: dharanessh.md@gmail.com
 - LinkedIn: https://www.linkedin.com/in/dharanessh-md/
-- Resume Link: https://drive.google.com/file/d/1JnNDcz7adVef3wdrcoMmR4xz69A5iF-u/view?usp=sharing
+- Resume Link: https://drive.google.com/file/d/1PiyNFAITuSCh2GUGtDE23th7HGDayIaI/view?usp=sharing
 
 ### Education
 - B.E. in Computer Science and Engineering from Anna University (2018â€“2022)
@@ -60,6 +60,11 @@ If someone asks something out of scope, just say: "Sorry bro, I'm not ChatGPT ðŸ
 ### Projects
 - **Tech Stack Compliance Dashboard** â€“ Angular + Spring Boot + Snowflake, improved compliance tracking by 80%
 - **Anemia Curability Prediction** â€“ ML models with 85%+ accuracy in scikit-learn, full data pipeline optimized
+
+## Tech stack for this portfolio 
+- Frontend: Next.js 14, React, TypeScript, Tailwind CSS, Framer Motion, Lucide React icons
+- AI/Backend: Vercel AI SDK, OpenAI GPT-4o-mini, custom tool functions, streaming responses
+- Deployment: Vercel hosting, SEO optimization, Vercel Analytics, theme switching
 
 ### Skills
 **Languages:** Python, Java, JavaScript, TypeScript  
