@@ -11,7 +11,7 @@ export function Resume() {
     title: "Dharanessh's Resume",
     description: 'Full Stack Developer • AI Specialist',
     fileType: 'PDF',
-    lastUpdated: 'July 2025',
+    lastUpdated: 'August 2025',
     fileSize: '0.2 MB',
     previewImageSrc: '/resume_dharanessh_preview.png',
     downloadUrl: '/DharanesshMDResume.pdf',
