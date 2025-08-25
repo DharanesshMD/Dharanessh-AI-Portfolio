@@ -77,6 +77,40 @@ const PROJECT_CONTENT = [
     ],
   },
   {
+    title: 'AI Research Assistant',
+    description: "AI Research Assistant is an AI-powered solution that streamlines knowledge gathering with a coordinated multi‑agent workflow. It integrates LangGraph orchestration with OpenAI and Tavily Search to perform web discovery, summarize sources, and deliver accurate Q&A with follow‑up prompts—run the API and UI in Python for fast, effortless research.",
+    techStack: ['Python', 
+      'LangGraph', 
+      'LangChain OpenAI', 
+      'FastAPI', 
+      'Uvicorn', 
+      'Streamlit', 
+      'Tavily API', 
+      'python-dotenv'
+    ],
+    date: '2025',
+    links: [
+      {
+        name: 'GitHub',
+        url: 'https://github.com/DharanesshMD/AI-Research-Assistant',
+      },
+    ],
+    images: [
+      {
+        src: '/research1.png',
+        alt: 'Start API',
+      },
+      {
+        src: '/research2.png',
+        alt: 'Start frontend (new terminal)',
+      },
+      {
+        src: '/research3.png',
+        alt: 'Result',
+      },
+    ],
+  },
+  {
     title: 'Dataset Download Automation',
     description:
       "Dataset Download Automation is an AI-powered solution that streamlines data acquisition through automated web interaction. It integrates real-time web navigation with the Mistral API, enabling seamless and efficient dataset downloads. Whether you need to bypass CAPTCHAs, fill forms, or click download buttons, just run the script with Python — no manual intervention needed, no technical complexity, and all data is retrieved effortlessly.",
@@ -422,6 +456,12 @@ export const data = [
     title: 'Telephony AI',
     src: '/telepreview.png',
     content: <ProjectContent project={{ title: 'Telephony AI' }} />,
+  },
+  {
+    category: 'Multi‑Agent RAG',
+    title: 'AI Research Assistant',
+    src: '/researchpreview.png',
+    content: <ProjectContent project={{ title: 'AI Research Assistant' }} />,
   },
   {
     category: 'Web Automation',
